@@ -1,9 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
-**my-souz4/my-souz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+|   ![](assets/avatar.png)    |
+| :-------------------------: |
+|      **Marques Souza**      |
+| [![](assets/instagram.png)](https://www.instagram.com/my_souz4/) &nbsp; [![](assets/linkedin.png)](https://www.linkedin.com/in/my-souz4) &nbsp; [![](assets/rocketseat.png)](https://app.rocketseat.com.br/me/marques-yuri) &nbsp; [![](assets/outlook.png)](mailto:my-souz4@outlook.com) |
